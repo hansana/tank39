@@ -58,9 +58,9 @@
 
 $mailto = 'group39@outlook.com' ;
 $subject = "Feedback Recieved" ;
-$formurl = "http://tank39.byethost13.com/contactus.html" ;
-$thankyouurl = "http://tank39.byethost13.com/thankyou.html" ;
-$errorurl = "http://tank39.byethost13.com/error.html" ;
+$formurl = "http://tank39.16mb.com/contactus.html" ;
+$thankyouurl = "http://tank39.16mb.com/thankyou.html" ;
+$errorurl = "http://tank39.16mb.com/error.html" ;
 
 $email_is_required = 1;
 $name_is_required = 1;
