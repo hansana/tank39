@@ -24,10 +24,6 @@
 {
 	color: #fff;
 }
-h2{
-		color:#fff;
-		font-size: 15px;
-}
 .menu{
 
 	margin:0px !important;
@@ -426,16 +422,6 @@ h2.portfolio-text::after {
 	letter-spacing: 2px;
 	font-family: 'Roboto', sans-serif;
 }
-.contact
-{
-	padding: 60px 0px;
-	float: left;
-	width: 100%;
-}
-.contact-form, .address-space
-{
-	margin-top: 20px;
-}
 .form-effect
 {
 
@@ -458,18 +444,6 @@ h2.portfolio-text::after {
     border-color: #fff;
     font-size: 18px;
     padding: 10px 30px;
-}
-#map-canvas
-{
-	height: 150px;
-}
-input[placeholder], [placeholder], *[placeholder] {
-    color: #212A3F !important;
-}
-.address p i {
-    padding-right: 10px;
-    font-size: 15px;
-    color: #8AB839;
 }
 .footer {
     margin: 20px 0px 10px;
